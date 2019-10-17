@@ -19,7 +19,11 @@ a:hover {
   background-color: #fff;
   border: 1px solid #fff;
 }
-
+.small{
+    height:200px;
+    float:left;
+    Margin:10px;
+}
 
 /*
  * Base structure
